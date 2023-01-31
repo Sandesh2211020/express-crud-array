@@ -1,5 +1,5 @@
 Request Method  
-Get -> Read
 Post -> Create
+Get -> Read
 Put/Patch -> Update
 Delete -> Delete/Destroy
